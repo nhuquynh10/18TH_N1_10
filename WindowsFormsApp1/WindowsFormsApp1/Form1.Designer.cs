@@ -48,18 +48,18 @@ namespace WindowsFormsApp1
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(136, 70);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(57, 13);
+            this.label1.Size = new System.Drawing.Size(80, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "UserName";
+            this.label1.Text = "User test Name";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(136, 120);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(53, 13);
+            this.label2.Size = new System.Drawing.Size(76, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Password";
+            this.label2.Text = "Pass test word";
             // 
             // txtPassword
             // 
