@@ -33,5 +33,10 @@ namespace WindowsFormsApp1
                 MessageBox.Show("successful");
             }
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
